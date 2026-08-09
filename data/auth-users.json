@@ -5,23 +5,18 @@
     "userId": 1786029630940
   },
   {
-    "email": "sami@gmail.com",
-    "password": "12345678",
-    "userId": 1786029654586
-  },
-  {
-    "email": "arzam@gmail.com",
-    "password": "12345678",
-    "userId": 1786031210349
-  },
-  {
     "email": "usman@gmail.com",
     "password": "$2b$10$Azt5G06.Vzum5Q8qKRUIneiaLRwQzQ059L./zvXqUlVxjlb1O2Pma",
     "userId": 1786035778897
   },
   {
-    "email": "hamna@gmail.com",
-    "password": "$2b$10$O.1GK5S7r8GCFjijgHHu8.hZWO0Fxdm/qlNoVpYhjhWtHiVMrG1M6",
-    "userId": 1786257234523
+    "email": "sami@gmail.com",
+    "password": "$2b$10$BjuaCRf15OIyKuxKh3h72eo6Kt4xOyrMnpQHn2dNjhgcFNkIRuf/m",
+    "userId": 1786258927335
+  },
+  {
+    "email": "arzam@gmail.com",
+    "password": "$2b$10$vTUG1Id8X/tc0jnjH9.EH.V0J5Tv4bEUPMMAyvoicD/prYlhg5mFq",
+    "userId": 1786259087084
   }
 ]
